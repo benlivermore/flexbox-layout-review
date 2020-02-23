@@ -1,0 +1,28 @@
+.parent{
+  /* display: flex; */
+}
+
+.child {
+  background-color:aquamarine;
+  height:200px;
+  margin:20px;
+  width:300px;
+  font-size:24px;
+  /* display: flex;
+  justify-content: center;
+  align-items: center; */
+}
+
+.another-parent{
+  display: block;
+}
+
+.another-child {
+  background-color:darkcyan;
+  height:200px;
+  margin:20px;
+  font-size:24px;
+  /* display: flex;
+  justify-content: center;
+  align-items: center; */
+}
